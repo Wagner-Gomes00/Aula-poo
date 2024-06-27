@@ -1,7 +1,7 @@
 package com.poo.introducao;
 
 import java.util.Scanner;
-
+import java.util.*;
 import javax.sound.sampled.SourceDataLine;
 
 public class Lista03 {
